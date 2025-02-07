@@ -1,0 +1,37 @@
+.search-container {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.search-input {
+  padding: 10px;
+  width: 300px;
+  font-size: 16px;
+  border: 1px solid #64646F33;
+  border-radius: 5px;
+}
+
+
+.search-results {
+  margin-top: 10px;
+  font-size: 16px;
+  color: #333;
+}
+
+.placeholder {
+  color: #656EC2;
+}
+
+.error-message {
+  color: red;
+  font-size: 16px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+::placeholder {
+  color: #656EC2;
+  opacity: 1;
+}
+
+
